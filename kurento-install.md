@@ -10,3 +10,6 @@
 * eğer service düşerse elle müdahale gereken durumlarda ,
 > sudo service coturn start
 > service kurento-media-server start
+
+- https://hub.docker.com/repository/docker/suzanozgur/kurento 
+-> Direk bunuda run edebilirsiniz
